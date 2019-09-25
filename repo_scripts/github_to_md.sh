@@ -15,19 +15,23 @@ function gh_info(){
     # variables used in function
     github_user_array=()
     github_project_array=()
+    github_array=()
+    github_urls="${project_root}/misc/urls"
+
+    if [[ $# -eq 0 ]] ; then
+        mapfile -t github_array < <(grep github "${github_urls}" | grep -v '/Awesome' | rev | cut -d '/' -f -2 | rev)
+    elif [[ $# -eq 1 ]] ; then
+        mapfile -t github_array < <(grep github "${github_urls}" | grep -v '/Awesome' | grep "${1}" | rev | cut -d '/' -f -2 | rev)
+    else
+        printf 'I have not implemented that yet...no soup for you...'
+        exit 1
+    fi
 
     # creating gh arrays
-    if [[ $# -eq 0 ]] ; then
-        for github_string in $(grep github "${project_root}/misc/urls" | grep -v '/Awesome' | rev | cut -d '/' -f -2 | rev) ; do
-            github_user_array+=("$(echo "${github_string}" | cut -d '/' -f 1)")
-            github_project_array+=("$(echo "${github_string}" | cut -d '/' -f 2)")
-        done
-    else
-        for github_string in $(grep github "${project_root}/misc/urls" | grep -v '/Awesome' | grep "${1}" | rev | cut -d '/' -f -2 | rev) ; do
-            github_user_array+=("$(echo "${github_string}" | cut -d '/' -f 1)")
-            github_project_array+=("$(echo "${github_string}" | cut -d '/' -f 2)")
-        done
-    fi
+    for github_string in "${github_array[@]}" ; do
+        github_user_array+=("$(echo "${github_string}" | cut -d '/' -f 1)")
+        github_project_array+=("$(echo "${github_string}" | cut -d '/' -f 2)")
+    done
 }
 
 function gh_issues(){
