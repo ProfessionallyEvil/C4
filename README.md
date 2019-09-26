@@ -16,8 +16,8 @@ This is a very fluid (as in continuously changing) github repo that will do comp
 Cyberdelia is a place from the movie [Hackers](https://m.imdb.com/title/tt0113243/) that all the main actors would go to meetup and hangout. While there, they would trade tips, tricks, and knowledge about their trade.
 
 <div sytle="float" align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4U9MI0u2VIE" target="_blank"><img style="width: 30%" src="https://img.youtube.com/vi/4U9MI0u2VIE/0.jpg" alt="Hacker - Crayola Books Scene"  /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hR62mcMJ2pE" target="_blank"><img style="width: 30%" src="https://img.youtube.com/vi/hR62mcMJ2pE/0.jpg" alt="Hacker - Crayola Books Scene"  /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4U9MI0u2VIE" target="_blank"><img style="width: 25%" src="https://img.youtube.com/vi/4U9MI0u2VIE/0.jpg" alt="Hacker - Crayola Books Scene"  /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hR62mcMJ2pE" target="_blank"><img style="width: 25%" src="https://img.youtube.com/vi/hR62mcMJ2pE/0.jpg" alt="Hacker - Crayola Books Scene"  /></a>
 </div>
 <br>
 
