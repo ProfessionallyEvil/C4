@@ -51,7 +51,7 @@ To list a few examples of that we will have github pull request templates for th
 - request a change - when something is not accurate and you would like to fix it
 
 
-### External Content
+## External Content
 
 There will be some instances (i.e. creating videos) that there will be external content that needs to be generated.
 If you would like to contribute to these types of issues, then just please comment saying you want to do it, before acting on it, on the corrisponding github issue.
