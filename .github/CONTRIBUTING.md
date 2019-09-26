@@ -2,6 +2,8 @@
 
 :tada: First off, thanks for taking the time to contribute or consider contributing! :tada:
 
+If your new to contributing on github in general, checkout this guide that they made to help understand the workflow: https://guides.github.com/introduction/flow/
+
 There are so may different types of C2 frameworks out there, and I will try and find all the different types of C2 frameworks that I can. 
 Unfortunetelly I won't be able to find everything...even since I started this I added a new framework based on someone's recommendation from [twitter](https://twitter.com/MrBenChung/status/1174437717842640897).
 So, I will definitely rely on the community to help add to this to make it comprehensive.
