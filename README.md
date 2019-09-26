@@ -9,7 +9,7 @@
 
 ## What is this?
 
-This is a github repo that will do comparisons of prominent Command and Control (C2) frameworks in the red team/pentesting industry.
+This is a very fluid (as in continuously changing) github repo that will do comparisons of prominent Command and Control (C2) frameworks in the red team/pentesting industry.
 
 ## Cyberdelia?
 
@@ -23,8 +23,21 @@ Cyberdelia is a place from the movie [Hackers](https://m.imdb.com/title/tt011324
 
 ## Format
 
-### Contribute to project
+_**note:** for a comprehensive list of all the C2 frameworks we will cover here please visit the [frameworks folder](/frameworks/)._
 
-If you would like to submit a contribution (i.e. correction, improvement, or alteration) to the project checkout the [CONTRIBUTING.md](/CONTRIBUTING.md)
+This format/layout is absolutly subject to change, and if you think there is a better way to present this content please message me in the [Professionally Evil Slack](https://professionallyevil.slack.com/messages/c4).
+I am gathering all this information to try and help compare and contrast the strong and weak points of different C2 frameworks, so whatever helps the presentation of that material the better!
+This repo will try to have releases, to better help solidfy when content is better solidified for consumtion, but it will not have Development Stages (i.e. alpha, beta, etc...) in release tags since the information is constantly evolving (unless someone thinks it should, and tell me how they think it should work).
 
-### Comparison
+### Plan for this repo
+
+Hopefully this repo can be similar to an [awesome list](https://github.com/topics/awesome), but be better in that we can aggregate video reviews of C2 frameworks, comparison points, and best use cases for when to use specific C2 frameworks.
+Currently the plan will be that I get the current list of C2 frameworks figured out for a v0.1.0 release, and I would love community help in making sure all information is accurate and informative!
+
+### Github Specific content
+
+All github specific content is in the [.github](/.github/) folder. (i.e. Code of Conduct, Contributing Guidelines, etc...)
+
+#### Contribute to project
+
+If you would like to submit a contribution (i.e. correction, improvement, or alteration) to the project checkout the [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
