@@ -22,6 +22,14 @@ Cyberdelia is a place from the movie [Hackers](https://m.imdb.com/title/tt011324
 </div>
 <br>
 
+### What is a C2 (framework)?
+
+Rather than try and explain everything about what a C2 is, just checkout this YouTube video. @monoxgas gives an in depth explaination about what a C2 is and what it should do during his talk [Flying a False Flag](https://github.com/monoxgas/FlyingAFalseFlag)
+
+<div align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2BEwqbCbQuM&t=136" target="_blank"><img src="https://img.youtube.com/vi/2BEwqbCbQuM/0.jpg" alt="Flying a false flag"  /></a>
+</div>
+
 ## Why create this repo?
 
 For a long time Powershell Empire was known as the standard for open-source C2 frameworks, and since they have now discontinued the project this repo will be a landing for others to keep track of new frameworks.
