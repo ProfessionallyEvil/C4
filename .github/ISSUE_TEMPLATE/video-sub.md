@@ -5,8 +5,6 @@ labels: video, enhancement
 title: "[VIDEO] "
 ---
 
-<!-- please add the label of NFS if this is a video submission for a new framework submission video request -->
-
 <!-- please add the name of the c2 framework you are requesting this video for -->
 #### C2 framework name
 
