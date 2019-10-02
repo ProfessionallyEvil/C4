@@ -13,8 +13,8 @@ necessary github issues or actions that need to get created/executed are as foll
 - [ ] video
 - [ ] comparison points <!-- optional if new comparison points come with this new framework submission -->
 - [ ] meta
-  - [ ] label <!-- repo maintainer required >
-  - [ ] milestone <!-- repo maintainer required >
+  - [ ] label <!-- repo maintainer required -->
+  - [ ] milestone <!-- repo maintainer required -->
   - [ ] folder to organize in repo
 
 
