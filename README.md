@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://professionallyevil.slack.com/messages/c4"> <img alt="Slack" src="https://img.shields.io/badge/chat-ProfessionallyEvil-%238c0000.svg?logo=slack" /></a>
   <!-- <a href="https://github.com/SamuraiWTF/samuraiwtf/releases"> <img alt="Latest version" src="https://img.shields.io/github/release/ProfessionallyEvil/C4.svg" /></a> -->
-  <a href="https://github.com/SamuraiWTF/samuraiwtf/blob/master/LICENSE" > <img alt="License" src="https://img.shields.io/badge/license-GPLv3-blue.svg" /></a>
+  <a href="https://github.com/ProfessionallyEvil/C4/blob/master/LICENSE" > <img alt="License" src="https://img.shields.io/badge/license-GPLv3-blue.svg" /></a>
 </p>
 
 ## What is this?
