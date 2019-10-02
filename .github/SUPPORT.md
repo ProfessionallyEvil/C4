@@ -1,0 +1,3 @@
+Please feel free to click on the slack button either here:  [![Professionally Evil Slack](https://img.shields.io/badge/chat-ProfessionallyEvil-%238c0000.svg?logo=slack)](https://professionallyevil.slack.com/messages/c4)  or on the [README.md](/README.md)
+
+This is currently our only support method, but if you would like to have a discussion about adding another please submit an [issue](https://github.com/ProfessionallyEvil/C4/issues)
