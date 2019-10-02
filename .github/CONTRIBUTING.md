@@ -38,6 +38,7 @@ To list a few examples of that we will have github issue templates for the follo
 - [New comparison point](/.github/ISSUE_TEMPLATE/new-comparison.md) - should be a comparison point that is used, and how each current framework rates with it
 - [Request a change](/.github/ISSUE_TEMPLATE/request-change.md) (altered initial bug template) - information might not be 100% accurate please consider fixing
 - [New template](/.github/ISSUE_TEMPLATE/new-template.md) - request a new issue or pull request template
+- [Feature Request](/.github/ISSUE_TEMPLATE/feature-req.md) - request something new for the repo to do
 
 ### Pull Requests
 
