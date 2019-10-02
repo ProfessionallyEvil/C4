@@ -2,7 +2,7 @@
 name: New framework submission
 about: Request a framework to be added
 labels: NFS, enhancement, deps
-title: [NFS] 
+title: "[NFS] "
 ---
 
 <!-- please don't delete the checklist section -->
