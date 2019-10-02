@@ -8,11 +8,11 @@ title: "[NFS] "
 <!-- please don't delete the checklist section -->
 **checklist**
 
-necessary github issues that need to get created are as follows:
+necessary github issues or actions that need to get created/executed are as follows:
 
-- [ ] NFS video
-- [ ] NFS comparisson points
-- [ ] NFS meta
+- [ ] video
+- [ ] comparison points <!-- optional if new comparison points come with this new framework submission -->
+- [ ] meta
   - [ ] label <!-- repo maintainer required >
   - [ ] milestone <!-- repo maintainer required >
   - [ ] folder to organize in repo
