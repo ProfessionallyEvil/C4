@@ -8,6 +8,20 @@
   <a href="https://github.com/ProfessionallyEvil/C4"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ProfessionallyEvil/C4?style=social"></a>
 </p>
 
+## Table of Contents
+
+- [C4](#c4)
+  - [Table of Contents](#table-of-contents)
+  - [What is this?](#what-is-this)
+  - [Cyberdelia?](#cyberdelia)
+    - [What is a C2 (framework)?](#what-is-a-c2-framework)
+  - [Why create this repo?](#why-create-this-repo)
+  - [Format](#format)
+    - [Plan for this repo](#plan-for-this-repo)
+    - [Github Specific content](#github-specific-content)
+      - [Contribute to project](#contribute-to-project)
+        - [Resources used for github repo](#resources-used-for-github-repo)
+
 ## What is this?
 
 This is a very fluid (as in continuously changing) github repo that will do comparisons of prominent Command and Control (C2) frameworks in the red team/pentesting industry.
