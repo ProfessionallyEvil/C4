@@ -34,6 +34,7 @@ To list a few examples of that we will have github issue templates for the follo
 
 - [New Framework Submission (NFS)](/.github/ISSUE_TEMPLATE/nfs.md)
 - [New video submission](/.github/ISSUE_TEMPLATE/video-sub.md) - could mean there is no current video or you would like to submit more links for the mentioned c2 framework
+  - Please look [here](#video-submissions) before trying to submit a video review for a C2 framework
 - New comparison point - should be a comparison point that is used, and how each current framework rates with it
 - Request a change (kind of like a bug request) - information might not be 100% accurate please consider fixing
 - New template - request a new issue or pull request template
@@ -55,4 +56,12 @@ To list a few examples of that we will have github pull request templates for th
 There will be some instances (i.e. creating videos) that there will be external content that needs to be generated.
 If you would like to contribute to these types of issues, then just please comment saying you want to do it, before acting on it, on the corrisponding github issue.
 This will help keep communication clear as to where work is getting distributed and allows individuals not to overlap and do uncessary work.
-Then I can also assign the task to you as well, so it is clear who is currently working on the issue
+Then I can also assign the task to you as well, so it is clear who is currently working on the issue.
+
+### Video submissions
+
+If you want to submit video review please ensure that you cover most, if not all, the comparison points.
+A good point of reference for security tool reviews are the following youtube channels (if you know of more please submit a bug issue):
+
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [webpwnized](https://www.youtube.com/user/webpwnized)
