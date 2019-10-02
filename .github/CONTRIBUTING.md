@@ -36,7 +36,7 @@ To list a few examples of that we will have github issue templates for the follo
 - [New video submission](/.github/ISSUE_TEMPLATE/video-sub.md) - could mean there is no current video or you would like to submit more links for the mentioned c2 framework
   - Please look [here](#video-submissions) before trying to submit a video review for a C2 framework
 - New comparison point - should be a comparison point that is used, and how each current framework rates with it
-- Request a change (kind of like a bug request) - information might not be 100% accurate please consider fixing
+- Request a change (altered initial bug template) - information might not be 100% accurate please consider fixing
 - New template - request a new issue or pull request template
 
 ### Pull Requests
