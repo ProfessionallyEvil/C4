@@ -6,7 +6,7 @@ title: "[NFS] "
 ---
 
 <!-- please don't delete the checklist section -->
-**checklist**
+#### checklist
 
 necessary github issues or actions that need to get created/executed are as follows:
 
@@ -19,11 +19,11 @@ necessary github issues or actions that need to get created/executed are as foll
 
 
 <!-- please add the name, so I know what the framework is :) -->
-**name**
+#### name
 
 
 <!-- please put a url to the where the C2 framework can be found (i.e. website, github repo, etc...) -->
-**url**
+#### url
 
 
 <!-- please add any additional context, that you know, about the framework, and if you don't know any information about this then just ignore this section.
@@ -33,4 +33,4 @@ examples would be as follows:
 - who is the author (if that isn't apparent (twitter handle?))
 - why you personally like to use this C2 framework
 -->
-**Additional context**
+#### Additional context
