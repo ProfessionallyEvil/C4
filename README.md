@@ -14,13 +14,22 @@ This is a very fluid (as in continuously changing) github repo that will do comp
 
 ## Cyberdelia?
 
-Cyberdelia is a place from the movie [Hackers](https://m.imdb.com/title/tt0113243/) that all the main actors would go to meetup and hangout. While there, they would trade tips, tricks, and knowledge about their trade.
+Cyberdelia is a place from the movie [Hackers](https://m.imdb.com/title/tt0113243/) that all the main actors would go to meetup and hangout. While there, they would trade tips, tricks, and knowledge about their trade, which is what I hope this repo will be.
 
 <div align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4U9MI0u2VIE" target="_blank"><img src="https://img.youtube.com/vi/4U9MI0u2VIE/0.jpg" alt="Hacker - Crayola Books Scene"  /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hR62mcMJ2pE" target="_blank"><img src="https://img.youtube.com/vi/hR62mcMJ2pE/0.jpg" alt="Hacker - Phone Scene"  /></a>
 </div>
 <br>
+
+## Why create this repo?
+
+For a long time Powershell Empire was known as the standard for open-source C2 frameworks, and since they have now discontinued the project this repo will be a landing for others to keep track of new frameworks.
+
+<div align="center">
+  <a href="https://twitter.com/xorrior/status/1156626181107736576"><img style="width: 60%;" alt="xorrior twitter empire dead" src="https://i.imgur.com/dWJULLw.png"></a>
+</div>
+
 
 ## Format
 
