@@ -84,3 +84,4 @@ If you would like to submit a contribution (i.e. correction, improvement, or alt
   - https://help.github.com/en/articles/configuring-a-workflow
 - others
   - https://github.com/gobuffalo/buffalo/blob/master/CODE_OF_CONDUCT.md 
+  - https://github.com/trailofbits/algo/blob/master/PULL_REQUEST_TEMPLATE.md
