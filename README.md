@@ -5,6 +5,7 @@
   <a href="https://professionallyevil.slack.com/messages/c4"> <img alt="Slack" src="https://img.shields.io/badge/chat-ProfessionallyEvil-%238c0000.svg?logo=slack" /></a>
   <a href="https://github.com/SamuraiWTF/samuraiwtf/releases"> <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/ProfessionallyEvil/C4?include_prereleases&sort=semver&label=release" /></a>
   <a href="https://github.com/ProfessionallyEvil/C4/blob/master/LICENSE" > <img alt="License" src="https://img.shields.io/badge/license-GPLv3-blue.svg" /></a>
+  <a href="https://github.com/ProfessionallyEvil/C4"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ProfessionallyEvil/C4?style=social"></a>
 </p>
 
 ## What is this?
