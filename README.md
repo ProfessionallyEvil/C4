@@ -41,3 +41,14 @@ All github specific content is in the [.github](/.github/) folder. (i.e. Code of
 #### Contribute to project
 
 If you would like to submit a contribution (i.e. correction, improvement, or alteration) to the project checkout the [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
+
+
+##### Resources used for github repo
+
+- Github support/help
+  - https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization
+  - https://github.community/t5/Support-Protips/Best-practices-for-pull-requests/ba-p/4104
+  - https://help.github.com/en/articles/about-github-actions
+  - https://help.github.com/en/articles/configuring-a-workflow
+- others
+  - https://github.com/gobuffalo/buffalo/blob/master/CODE_OF_CONDUCT.md 
