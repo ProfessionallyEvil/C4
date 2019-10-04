@@ -1,0 +1,9 @@
+[submodule "frameworks/silenttrinity/SILENTTRINITY"]
+	path = frameworks/silenttrinity/SILENTTRINITY
+	url = https://github.com/byt3bl33d3r/SILENTTRINITY.git
+[submodule "frameworks/silenttrinity/OffensiveDLR"]
+	path = frameworks/silenttrinity/OffensiveDLR
+	url = https://github.com/byt3bl33d3r/OffensiveDLR.git
+[submodule "frameworks/poshc2_python/PoshC2_Python"]
+	path = frameworks/poshc2_python/PoshC2_Python
+	url = https://github.com/nettitude/PoshC2_Python.git
