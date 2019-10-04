@@ -13,7 +13,7 @@ If you can think of a any other way, please feel free to submit a `Request a cha
 
 ## Format
 
-Please always have a corresponding issue to a pull request, so there can be a coversation about what needs to be done before a direct submission (if there is a small enough patch (i.e. fixing text formatting) then you can submit a pull request ).
+Please always have a corresponding issue to a pull request or a link to a slack converation we had in the [Professionally Evil Slack](https://professionallyevil.slack.com/messages/c4), so there can be a coversation about what needs to be done before a direct submission (if there is a small enough patch (i.e. fixing text formatting or spellchecking) then you can submit a pull request ).
 If I do close a pull request with a `please make issue` label then please don't take offense to it, I simply want to keep better track of what is happening and am just inferior to your more intellectual knowledge of being able to do it without one :smile:.
 
 Along with having a corresponding issue, please in the appropriate pull request have the comment or title be something like closes (or corresponds to) #xyz (replace xyz with your issue number).
