@@ -1,3 +1,5 @@
 .vagrant/
 *.swo
 *.swp
+*.bak
+*.bak/
