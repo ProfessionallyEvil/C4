@@ -44,6 +44,8 @@ Rather than try and explain everything about what a C2 is, just checkout this Yo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2BEwqbCbQuM&t=136" target="_blank"><img src="https://img.youtube.com/vi/2BEwqbCbQuM/0.jpg" alt="Flying a false flag"  /></a>
 </div>
 
+Command-and-control servers, also called C&C or C2, are used by attackers and/or threat actors to maintain contact and communications with compromised systems within a target network. Ref: [Intro to Red Team](https://blog.zsec.uk/redteam-intro/) 
+
 ## Why create this repo?
 
 For a long time Powershell Empire was known as the standard for open-source C2 frameworks, and since they have now discontinued the project this repo will be a landing for others to keep track of new frameworks.
