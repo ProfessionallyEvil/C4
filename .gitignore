@@ -3,3 +3,6 @@
 *.swp
 *.bak
 *.bak/
+
+# exploits
+*.ps1
