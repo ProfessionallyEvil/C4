@@ -1,0 +1,11 @@
+name: 'NFS Automation'
+description: 'NFS Automation for github.com/ProfessionallyEvil/C4'
+
+inputs:
+  repo-token:
+    description: 'Github Authorisation Token'
+    required: true
+
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
